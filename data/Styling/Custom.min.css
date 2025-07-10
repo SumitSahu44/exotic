@@ -32162,7 +32162,7 @@ body.disable-mobile-scroll-menu .shared-layout-header-container .header-middle-w
 
 @media screen and (max-width: 767px) {
     .shared-layout-header-container .header-middle-wrap .header-productmenu-container .header-menu-items-container-mobile .nav .nav-wrapper .nav-items-mobile {
-        height: calc(100vh - 80px);
+        height: calc(125vh - 80px);
         margin-top: 122px
     }
 }
