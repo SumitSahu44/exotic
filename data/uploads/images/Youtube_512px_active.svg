@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ICONS_ACTIVE" data-name="ICONS ACTIVE" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #323232;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_535" data-name="Rectangle 535" class="cls-2" d="M256,0h0c141.38,0,256,114.62,256,256h0c0,141.38-114.62,256-256,256h0C114.62,512,0,397.38,0,256H0C0,114.62,114.62,0,256,0Z"/>
+  <path id="Path_96" data-name="Path 96" class="cls-1" d="M193.53,383.64V128.36l195.92,128.07-195.92,127.22Z"/>
+</svg>

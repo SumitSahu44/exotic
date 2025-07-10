@@ -1,0 +1,188 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4614313, 2022-04-04T03:19:53-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CentraleSansBook-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansHairline-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/hairline-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansBook by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/regular/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansBold-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/bold-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansHairline by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/hairline/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansLight by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/light/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansBold by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/bold/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansLight-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/light-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansMedium by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/medium/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansThin-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/thin-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansMedium-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/medium-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXBold-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xbold-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansThin by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/thin/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXBold by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xbold/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXLight by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xlight/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXLight-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xlight-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXThin by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xthin/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: CentraleSansXThin-It by Typedepot
+ * URL: https://www.myfonts.com/fonts/typedepot/centrale-sans/xthin-italic/
+ * Copyright: Copyright (c) 2016 by typedepot. All rights reserved.
+ * 
+ * Webfont: ITCAvantGardePro-Bold by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/itc-avant-garde-gothic-inactive/bold/
+ * Copyright: Copyright © 2015 Monotype ITC Inc. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+
+@import url("//hello.myfonts.net/count/4668a9");
+@font-face {
+    font-family: "CentraleSansThin";
+    src: url('webFonts/CentraleSansThin/font.woff2') format('woff2'), url('webFonts/CentraleSansThin/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansThin-It";
+    src: url('webFonts/CentraleSansThinIt/font.woff2') format('woff2'), url('webFonts/CentraleSansThinIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansMedium";
+    src: url('webFonts/CentraleSansMedium/font.woff2') format('woff2'), url('webFonts/CentraleSansMedium/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXThin-It";
+    src: url('webFonts/CentraleSansXThinIt/font.woff2') format('woff2'), url('webFonts/CentraleSansXThinIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXLight-It";
+    src: url('webFonts/CentraleSansXLightIt/font.woff2') format('woff2'), url('webFonts/CentraleSansXLightIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXBold-It";
+    src: url('webFonts/CentraleSansXBoldIt/font.woff2') format('woff2'), url('webFonts/CentraleSansXBoldIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansBold";
+    src: url('webFonts/CentraleSansBold/font.woff2') format('woff2'), url('webFonts/CentraleSansBold/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansLight-It";
+    src: url('webFonts/CentraleSansLightIt/font.woff2') format('woff2'), url('webFonts/CentraleSansLightIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansHairline-It";
+    src: url('webFonts/CentraleSansHairlineIt/font.woff2') format('woff2'), url('webFonts/CentraleSansHairlineIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXThin";
+    src: url('webFonts/CentraleSansXThin/font.woff2') format('woff2'), url('webFonts/CentraleSansXThin/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXBold";
+    src: url('webFonts/CentraleSansXBold/font.woff2') format('woff2'), url('webFonts/CentraleSansXBold/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "ITCAvantGardePro-Bold";
+    src: url('webFonts/ITCAvantGardeProBold/font.woff2') format('woff2'), url('webFonts/ITCAvantGardeProBold/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansBook";
+    src: url('webFonts/CentraleSansBook/font.woff2') format('woff2'), url('webFonts/CentraleSansBook/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansLight";
+    src: url('webFonts/CentraleSansLight/font.woff2') format('woff2'), url('webFonts/CentraleSansLight/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansBook-It";
+    src: url('webFonts/CentraleSansBookIt/font.woff2') format('woff2'), url('webFonts/CentraleSansBookIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansHairline";
+    src: url('webFonts/CentraleSansHairline/font.woff2') format('woff2'), url('webFonts/CentraleSansHairline/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansXLight";
+    src: url('webFonts/CentraleSansXLight/font.woff2') format('woff2'), url('webFonts/CentraleSansXLight/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansMedium-It";
+    src: url('webFonts/CentraleSansMediumIt/font.woff2') format('woff2'), url('webFonts/CentraleSansMediumIt/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "CentraleSansBold-It";
+    src: url('webFonts/CentraleSansBoldIt/font.woff2') format('woff2'), url('webFonts/CentraleSansBoldIt/font.woff') format('woff');
+}
