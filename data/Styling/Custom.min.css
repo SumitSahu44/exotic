@@ -31881,7 +31881,7 @@ body.disable-mobile-scroll-menu .shared-layout-header-container .header-middle-w
 
 .shared-layout-header-container .header-middle-wrap .header-logo-container .header-brand a {
     /* background-image: url("/data/uploads/images/logo-magic-fx.svg"); */
-     background-image: url("/data/uploads/images/exotic-logo.png");
+     background-image: url("/data/uploads/images/exoticlogo.png");
     margin-left: 0;
     margin-right: 0;
     display: flex;
@@ -31889,7 +31889,7 @@ body.disable-mobile-scroll-menu .shared-layout-header-container .header-middle-w
     margin-top: 0;
     margin-bottom: 0;
     background-repeat: no-repeat;
-    height: 50px;
+    height: 120px;
     background-size: contain;
     background-position: center left
 }
